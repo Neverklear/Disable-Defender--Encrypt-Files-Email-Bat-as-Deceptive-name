@@ -1,0 +1,3 @@
+Option Explicit
+
+Dim obj
